@@ -1,7 +1,7 @@
 import pytest
-from series.series import fibonacci
-from series.series import lucas
-from series.series import sum_series
+from series.series.series import fibonacci
+from series.series.series import lucas
+from series.series.series import sum_series
 
 def test_zero_fab():
     actual = fibonacci(0)
