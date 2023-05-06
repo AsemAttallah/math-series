@@ -1,5 +1,5 @@
 # LAB - Class 02
-## Project: Series
+## Project: math-series
 ### Author: Asem Attallah
 <hr></hr>
 
